@@ -14,16 +14,16 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Random Ponderings # the main title
+title: Random Musings # the main title
 
-tagline: Pandom Ronderings # it will display as the subtitle
+tagline: broadcasting into the digital ether # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Wibble, Bibble, and Bood
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://dt215git.github.io"
+url: "https://dt215git.githib.io"
 
 github:
   username: dt215git # change to your GitHub username
@@ -31,15 +31,15 @@ github:
 # twitter:
 #   username: twitter_username # change to your Twitter username
 
-# social:
+social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: dt215git
-  # email: example@domain.com # change to your email address
+  email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    #- https://twitter.com/username # change to your Twitter homepage
-    - "https://github.com/dt215git" # change to your GitHub homepage
+    # - https://twitter.com/username # change to your Twitter homepage
+    - https://github.com/dt215git # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -88,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: dark # [light | dark]
+theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -98,7 +98,7 @@ theme_mode: dark # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/favicons/web-app-manifest-512x512.png
+avatar:
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
