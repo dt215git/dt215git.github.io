@@ -7,9 +7,9 @@ categories: plants
 tags: [indoor, plants, gardening]
 ---
 
-Potting compost for indoor plants can be expensive, especially if you're buying the  speciality mixes from big-name brands. Bag sizes are often fairly less than 10L - unlike the 50L garden compost bags generally available - often meaning multiple bags are required over the course of a season. You're paying for the _buy-and-use_ convenience.
+Potting compost for indoor plants can be expensive, especially if you're buying the speciality mixes from big-name brands. Bag sizes are often less than 10L - unlike the 50L garden compost bags generally available - often meaning multiple bags are required over the course of a season. You're paying for the _buy-and-use_ convenience.
 
-It's often cheaper to buy the underlying components as separate items in bulk, and mix blends as required. Most plants can get by with a potting mix that incorporates various combinations of these components:
+It's often cheaper to buy the underlying components as separate items in bulk, and mix blends as required. Most plants can get by with a potting mix that incorporates various combinations of the following:
 - Coco Coir
 - Coco Chips / Bark Chips
 - Perlite / Pumice
@@ -19,9 +19,7 @@ It's often cheaper to buy the underlying components as separate items in bulk, a
 - Vermiculite
 - Sphagnum Moss
 
-The downside is having to store the individual bags, but it's often not much different to having to store multiple bags of the ready-made potting mixes.
-
-So, here's a short lists of potting mix blends to get you started.
+The downside is having to store the individual bags, but it's often not much different to having to store multiple bags of the ready-made potting mixes. So, here's a short lists of potting mix blends to get you started.
 
 ## Aroid Blend
 
