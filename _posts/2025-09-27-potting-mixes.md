@@ -33,7 +33,7 @@ The downside is having to store the individual bags, but it's often not much dif
 |Grit|0.5|
 
 
-## Ficus Blend No.1
+## Ficus Blend
 
 |Component|Ratio / Parts|
 |-|-|
