@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Landing Page
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus enim fringilla risus maximus, id pulvinar risus condimentum. Quisque massa dolor, efficitur sed ullamcorper id, lobortis non justo. Integer mollis nulla quis risus blandit, quis egestas elit volutpat. Aliquam mattis ornare nibh, ut euismod tellus sollicitudin sit amet. Proin commodo ornare nulla sed ultricies. Donec suscipit arcu at ante consectetur posuere. Integer nibh nulla, venenatis quis risus vel, tincidunt convallis felis. Cras rhoncus pellentesque felis. Proin sit amet laoreet dui. Fusce rutrum turpis non lorem dignissim, eget aliquam leo luctus. Duis risus ex, pellentesque nec leo ac, porta pellentesque felis. Phasellus quis nisi tempus, egestas diam et, placerat dui. Nulla a aliquam lacus. Quisque ligula neque, feugiat vitae est non, tempor finibus lorem. Sed tincidunt, justo non consequat tincidunt, metus lacus egestas enim, eget mattis leo lorem nec purus. Quisque malesuada, mi in imperdiet vestibulum, urna velit egestas lectus, sed tempor ipsum lectus et est.
