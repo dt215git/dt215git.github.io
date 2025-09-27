@@ -1,19 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Landing Page
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus enim fringilla risus maximus, id pulvinar risus condimentum. Quisque massa dolor, efficitur sed ullamcorper id, lobortis non justo. Integer mollis nulla quis risus blandit, quis egestas elit volutpat. Aliquam mattis ornare nibh, ut euismod tellus sollicitudin sit amet. Proin commodo ornare nulla sed ultricies. Donec suscipit arcu at ante consectetur posuere. Integer nibh nulla, venenatis quis risus vel, tincidunt convallis felis. Cras rhoncus pellentesque felis. Proin sit amet laoreet dui. Fusce rutrum turpis non lorem dignissim, eget aliquam leo luctus. Duis risus ex, pellentesque nec leo ac, porta pellentesque felis. Phasellus quis nisi tempus, egestas diam et, placerat dui. Nulla a aliquam lacus. Quisque ligula neque, feugiat vitae est non, tempor finibus lorem. Sed tincidunt, justo non consequat tincidunt, metus lacus egestas enim, eget mattis leo lorem nec purus. Quisque malesuada, mi in imperdiet vestibulum, urna velit egestas lectus, sed tempor ipsum lectus et est.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Proin semper nibh mauris, nec vehicula ex vulputate eu. Proin malesuada elit erat, eu mattis velit imperdiet id. Phasellus fermentum quis nunc id sollicitudin. Curabitur venenatis justo sed porta facilisis. Mauris tristique nibh lorem, vel vulputate metus iaculis sollicitudin. Pellentesque in odio sit amet diam suscipit rutrum quis eget quam. Quisque eu orci eu augue lacinia aliquam. Nam congue lacus eu nulla pellentesque, sit amet malesuada sem rutrum. Suspendisse metus lacus, iaculis vel elit a, gravida commodo eros.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Aliquam erat volutpat. Aliquam at tristique arcu. Fusce tincidunt, diam placerat iaculis mattis, arcu arcu ullamcorper elit, et feugiat diam massa sit amet tellus. Mauris est ligula, placerat vitae condimentum id, varius ut quam. Duis odio nisi, scelerisque et vulputate vitae, suscipit ut diam. Fusce velit elit, maximus non tempor id, tempor sit amet ipsum. Maecenas vestibulum nibh id velit semper, a mollis nunc eleifend. Pellentesque id consectetur felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis lacus tempor, aliquet nunc eu, laoreet sapien. Proin hendrerit arcu et imperdiet porta. Ut ac venenatis nunc. Sed ac nunc metus.
